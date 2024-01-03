@@ -47,6 +47,10 @@ chmod +x requests_limits.sh
 
 O script irá gerar um arquivo `workloads_without_requests.csv` com as sugestões de requests.
 
+## Sobre os Limits
+
+Acesse a [wiki](https://github.com/nataliagranato/kubernetes-resource-analyzer/wiki) do repositório para entender mais.
+
 ## Contribuição
 
 Contribuições são bem-vindas. Sinta-se à vontade para abrir uma issue ou enviar um pull request.
